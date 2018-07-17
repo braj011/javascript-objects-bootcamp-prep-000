@@ -6,6 +6,9 @@ function updatePlaylist(playlist, artist, song) {
   return playlist;
 }
 
+function removeFromPlaylist(playlist, artist) {
+  
+}
 
 /*
   it('defines an object called `playlist` containing at least one artist-song pair', () => {
